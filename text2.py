@@ -1,0 +1,2 @@
+def sum(self,num):
+  
